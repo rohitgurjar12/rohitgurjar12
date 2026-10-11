@@ -13,14 +13,13 @@
   <a href="https://github.com/rohitgurjar12?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=flat-square&logo=github" alt="Explore repositories"/>
   </a>
-  <!-- Add your LinkedIn or portfolio link when ready. -->
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
 Hi, I'm **Rohit**, a student developer interested in software development, AI/ML, and building useful digital experiences.
 
@@ -32,7 +31,7 @@ Hi, I'm **Rohit**, a student developer interested in software development, AI/ML
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
   <strong>Languages</strong><br/>
@@ -63,7 +62,7 @@ Hi, I'm **Rohit**, a student developer interested in software development, AI/ML
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 <!-- Replace the repository links below if your project repositories use different names.
      Add a live-demo link only when a working public demo exists. -->
@@ -96,13 +95,13 @@ Hi, I'm **Rohit**, a student developer interested in software development, AI/ML
 >
 ---
 
-## 📈 GitHub Activity
+### 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitgurjar12&show_icons=true&hide_border=true&theme=github_dark&bg_color=000000&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitgurjar12&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgurjar12&layout=compact&hide_border=true&theme=github_dark&bg_color=000000&title_color=58A6FF&text_color=FFFFFF" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgurjar12&layout=compact&hide_border=true&theme=github_dark&bg_color=161B22&title_color=58A6FF&text_color=FFFFFF" alt="Most used languages"/>
 
 </div>
 <br/>
@@ -115,25 +114,27 @@ Hi, I'm **Rohit**, a student developer interested in software development, AI/ML
 </p>
 
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitgurjar12/rohitgurjar12/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitgurjar12/rohitgurjar12/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture> 
-</div>
+### 📊 GitHub Contribution Activity
 
+<p align="center">
+  <img
+    src="https://gitcolors.vercel.app/api/svg?username=rohitgurjar12&color=39d353&theme=dark&mode=levels&emptyColor=neutral"
+    alt="GitHub contribution activity"
+    width="100%"
+    style="border-radius: 16px;"
+  />
+</p>
 
-##
+---
+
+### 🫱🏼‍🫲🏻 Connect with Me
 
 <div id="hey" align="center">
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
-  <h1>
-Connect With Me 
-  </h1> 
-
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="150px"> 
+</div>
+ 
 <div align="center">
-  <a href="https://www.instagram.com/_r.o.h.i.t__" target="_blank">
+  <a href="https://www.instagram.com/rohiitgurjarr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/1436613935737344072" target="_blank">
