@@ -136,7 +136,7 @@ Connect With Me
   <a href="https://www.instagram.com/_r.o.h.i.t__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/invite/avAX4XHQsu" target="_blank">
+  <a href="https://discordapp.com/users/1436613935737344072" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rohitgurjar12/" target="_blank">
